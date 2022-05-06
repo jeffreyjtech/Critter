@@ -2,7 +2,7 @@
 
 ## Summary
 
-Social Media platform hosted by Heroku where users can communicate via CLI in the browser. Users can create an account and post, edit, and delete "Creets" on a public live timeline.
+Lightweight social media platform where users can communicate with a custom CLI application or HTTP. Users can create an account and post, edit, and delete posts on a public timeline.
 
 [Our Planning Docs](https://github.com/BJR-Cubed/project-docs)
 
@@ -10,7 +10,7 @@ Social Media platform hosted by Heroku where users can communicate via CLI in th
 
 ## Problem Domain
 
-We will add an edit function allowing users to edit "creets" so they can correct "creets" they did not think about before "creeting". It is a lightweight version of Twitter and is a great way to connect with others.
+We will add an edit function allowing users to edit posts so they can correct posts they did not think about before posting. It is a lightweight version of Twitter and is a great way to connect with others.
 
 MVP
 
